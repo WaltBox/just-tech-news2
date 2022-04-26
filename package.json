@@ -1,0 +1,23 @@
+{
+  "name": "just-tech-news2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaltBox/just-tech-news2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaltBox/just-tech-news2/issues"
+  },
+  "homepage": "https://github.com/WaltBox/just-tech-news2#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  }
+}
